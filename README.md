@@ -114,8 +114,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/ocr-project](https://github.com/yourusername/ocr-project)
+Your Name - chiragsanadhya1411@gmail.com
+Project Link: [https://github.com/chiragsanadhya/ocr-model](https://github.com/chiragsanadhya/ocr-model))
 
 ## 🙏 Acknowledgments
 
